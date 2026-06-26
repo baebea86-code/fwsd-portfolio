@@ -20,3 +20,28 @@ nav {
   position: sticky;
   top: 0;
 }
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 1.5rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #00adb5;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 3rem 2rem;
+  background: url('./assets/hero-background.jpg') no-repeat center center;
+  background-size: cover;
+  color: white;
+}
