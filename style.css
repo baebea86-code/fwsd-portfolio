@@ -43,7 +43,7 @@ nav a:hover {
   padding: 3rem 2rem;
   background: url('./assets/hero-background.jpg') no-repeat center center;
   background-size: cover;
-  color: white;
+  color: black;
 }
 
 .hero-text {
